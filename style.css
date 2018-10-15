@@ -1,0 +1,10 @@
+.jumbotron{
+    background: url(http://freenaturestock.s3.amazonaws.com/1380.jpg) center center; /*this will position it horizontally and vertically center respectively*/
+    background-size: cover;
+    height: 600px;
+}
+/*set height of logo*/
+.logo{
+    width: 83px;
+    height: 80px;
+}
